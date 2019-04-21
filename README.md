@@ -8,3 +8,4 @@ Distributed Tracing Example using Zipkin and Sleuth
 # How to use
 - Build the project
 - Start the boot applications individually
+- Monitor traces & spans @ <host/localhost>:8080 for a journey
