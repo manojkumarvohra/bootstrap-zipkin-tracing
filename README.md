@@ -1,4 +1,4 @@
-# zipkin-tracing-bootstrap-example
+# bootstrap-zipkin-tracing
 Distributed Tracing Example using Zipkin and Sleuth
 
 # Configuration
