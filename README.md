@@ -9,3 +9,5 @@ Distributed Tracing Example using Zipkin and Sleuth
 - Build the project
 - Start the boot applications individually
 - Monitor traces & spans @ <host/localhost>:8080 for a journey
+# References
+- For custom spans and async spans examples see: https://github.com/eugenp/tutorials/tree/master/spring-sleuth
