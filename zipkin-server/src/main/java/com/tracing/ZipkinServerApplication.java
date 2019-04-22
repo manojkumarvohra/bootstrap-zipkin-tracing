@@ -1,4 +1,4 @@
-package com.example.zipkinserver;
+package com.tracing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

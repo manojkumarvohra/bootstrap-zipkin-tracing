@@ -1,4 +1,4 @@
-package com.example.zipkinservice2;
+package com.tracing;
 
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
